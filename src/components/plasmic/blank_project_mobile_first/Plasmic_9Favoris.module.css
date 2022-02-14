@@ -1,0 +1,290 @@
+.root {
+  display: flex;
+  flex-direction: column;
+  position: relative;
+  width: 100%;
+  height: 100%;
+  overflow-x: hidden;
+  justify-content: center;
+  align-items: center;
+  min-width: 0;
+  min-height: 0;
+}
+.favoris {
+  background: rgba(255, 255, 255, 1);
+  width: 375px;
+  height: 649px;
+  display: block;
+  overflow: hidden;
+  flex-shrink: 0;
+  border-radius: 5px;
+}
+.frame2 {
+  background: rgba(0, 139, 146, 1);
+  width: 375px;
+  height: 104px;
+  display: block;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  overflow: hidden;
+}
+.freePark {
+  position: absolute;
+  top: 25px;
+  left: 100px;
+  width: 176px;
+  height: 54px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.text__hDpEo {
+  display: block;
+  font-size: 25px;
+  text-align: center;
+  font-family: Comfortaa;
+  font-weight: 700;
+  letter-spacing: -0.334px;
+  line-height: 100%;
+  color: rgba(255, 255, 255, 1);
+}
+.frame6 {
+  width: 323px;
+  height: 274px;
+  display: block;
+  position: absolute;
+  top: 185px;
+  left: 27px;
+  overflow: hidden;
+  padding-bottom: 27px;
+  border-radius: 5px;
+  border: 1px solid var(--token-Mc24NpPi8);
+}
+.frame7 {
+  background: #39b7b8;
+  box-shadow: none;
+  width: 323px;
+  height: 42px;
+  display: block;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  overflow: hidden;
+}
+.mesAdressesFavorites {
+  position: absolute;
+  top: 2px;
+  left: 25px;
+  width: 231px;
+  height: 38px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.text__lPDu7 {
+  display: block;
+  font-size: 14px;
+  text-align: center;
+  font-family: Comfortaa;
+  font-weight: 700;
+  letter-spacing: -0.015em;
+  line-height: 100%;
+  color: rgba(255, 255, 255, 1);
+}
+.svg__n4GmC {
+  position: absolute;
+  object-fit: cover;
+  max-width: 100%;
+  left: 273px;
+  top: 7px;
+  margin-left: 15px;
+  height: 30px;
+  color: var(--token-nnxrtEgHU);
+  width: 30px;
+}
+.svg__kGiU9 {
+  position: absolute;
+  object-fit: cover;
+  max-width: 100%;
+  color: #dadada;
+  transform: scale(0.999018017855534, 0.9990240237532182)
+    rotate(0.3441146582670981deg) skew(-0.057351044718030486deg, 0deg);
+  width: 322px;
+  height: 1px;
+  display: block;
+  transform-origin: top left;
+  top: 117px;
+  left: 1px;
+}
+.svg__ioSig {
+  position: absolute;
+  object-fit: cover;
+  max-width: 100%;
+  color: #dadada;
+  transform: scale(0.999018017855534, 0.9990240237532182)
+    rotate(0.3441146582670981deg) skew(-0.057351044718030486deg, 0deg);
+  width: 322px;
+  height: 1px;
+  display: block;
+  transform-origin: top left;
+  top: 195px;
+  left: 0px;
+}
+._2RueTruc59000Lille {
+  position: absolute;
+  top: 52px;
+  left: 11px;
+  width: 245px;
+  height: 57px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.text__hVoof {
+  display: block;
+  font-size: 16px;
+  font-family: "Inter", sans-serif;
+  font-weight: 400;
+  letter-spacing: -0.015em;
+  line-height: 100%;
+  color: rgba(108, 102, 102, 1);
+}
+._2BoulevardJeNeSaisPas75016Paris {
+  position: absolute;
+  top: 127px;
+  left: 11px;
+  width: 245px;
+  height: 57px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.text___1VlSx {
+  display: block;
+  font-size: 16px;
+  font-family: "Inter", sans-serif;
+  font-weight: 400;
+  letter-spacing: -0.015em;
+  line-height: 100%;
+  color: rgba(108, 102, 102, 1);
+}
+.text___1G7Ks {
+  display: block;
+  font-size: 16px;
+  font-family: "Inter", sans-serif;
+  font-weight: 400;
+  letter-spacing: -0.015em;
+  line-height: 100%;
+  color: rgba(108, 102, 102, 1);
+  position: absolute;
+  left: 10px;
+  top: 217px;
+}
+.svg__tUs82 {
+  position: absolute;
+  object-fit: cover;
+  max-width: 100%;
+  left: 273px;
+  top: 135px;
+  width: 30px;
+  height: 30px;
+  color: #008b92;
+}
+.svg__u1RVd {
+  position: absolute;
+  object-fit: cover;
+  max-width: 100%;
+  left: 273px;
+  top: 212px;
+  width: 30px;
+  height: 30px;
+  color: #008b92;
+}
+.svg__qkrbz {
+  position: absolute;
+  object-fit: cover;
+  max-width: 100%;
+  left: 273px;
+  top: 61px;
+  width: 30px;
+  height: 30px;
+  color: #008b92;
+}
+.frame5 {
+  background: rgba(57, 183, 184, 0.2);
+  width: 375px;
+  height: 51px;
+  display: block;
+  position: absolute;
+  top: 597px;
+  left: 1px;
+  overflow: hidden;
+}
+.link__fHSx1 {
+  position: absolute;
+  top: 9px;
+  left: 189px;
+  margin-top: 0px;
+  margin-right: 0px;
+  display: flex;
+}
+.svg___8MpCr {
+  object-fit: cover;
+  max-width: 100%;
+  width: 35px;
+  height: 35px;
+  color: #000000;
+  flex-shrink: 0;
+}
+.link__jsasU {
+  position: absolute;
+  top: 10px;
+  left: 261px;
+  display: flex;
+}
+.geoSvg:global(.__wab_instance) {
+  flex-shrink: 0;
+}
+.link__ho2Qq {
+  position: absolute;
+  top: 6px;
+  left: 23px;
+  display: flex;
+}
+.svg___99VKc {
+  object-fit: cover;
+  max-width: 100%;
+  color: #000000;
+  width: 35px;
+  height: 35px;
+  flex-shrink: 0;
+}
+.link__dJ3Bc {
+  position: absolute;
+  top: 5px;
+  left: 325px;
+  display: flex;
+  color: #000000;
+}
+.svg__gCnHs {
+  object-fit: cover;
+  max-width: 100%;
+  width: 40px;
+  height: 40px;
+  flex-shrink: 0;
+}
+.link___4RhL1 {
+  position: absolute;
+  top: 5px;
+  left: 111px;
+  display: flex;
+}
+.svg__ff0Kr {
+  object-fit: cover;
+  max-width: 100%;
+  color: #008b92;
+  width: 35px;
+  height: 35px;
+  flex-shrink: 0;
+}

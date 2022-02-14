@@ -1,0 +1,106 @@
+.root {
+  display: flex;
+  flex-direction: column;
+  position: relative;
+  width: 100%;
+  height: 100%;
+  overflow-x: hidden;
+  justify-content: center;
+  align-items: center;
+  min-width: 0;
+  min-height: 0;
+}
+.register {
+  background: rgba(255, 255, 255, 1);
+  width: 375px;
+  height: 649px;
+  display: block;
+  overflow: hidden;
+  flex-shrink: 0;
+  border-radius: 5px;
+}
+.frame1 {
+  background: rgba(57, 183, 184, 1);
+  width: 198px;
+  height: 53px;
+  display: block;
+  position: absolute;
+  top: 353px;
+  left: 89px;
+  overflow: hidden;
+  border-radius: 5px;
+}
+.sinscrire {
+  position: absolute;
+  top: 6px;
+  left: 0px;
+  width: 195px;
+  height: 41px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.text__jB6WL {
+  display: block;
+  font-size: 18px;
+  text-align: center;
+  font-family: Comfortaa;
+  font-weight: 700;
+  letter-spacing: -0.015em;
+  line-height: 100%;
+  color: rgba(255, 255, 255, 1);
+}
+.frame2 {
+  background: rgba(0, 139, 146, 1);
+  width: 375px;
+  height: 104px;
+  display: block;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  overflow: hidden;
+}
+.freePark {
+  position: absolute;
+  top: 25px;
+  left: 100px;
+  width: 176px;
+  height: 54px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.text__ptbdI {
+  display: block;
+  font-size: 25px;
+  text-align: center;
+  font-family: Comfortaa;
+  font-weight: 700;
+  letter-spacing: -0.334px;
+  line-height: 100%;
+  color: rgba(255, 255, 255, 1);
+}
+.textInput {
+  position: absolute;
+  width: 318px;
+  height: auto;
+  max-width: 100%;
+  left: 31px;
+  top: 192px;
+  padding-right: 0px;
+  margin-right: 51px;
+}
+.passwordInput {
+  position: absolute;
+  width: 318px;
+  height: auto;
+  max-width: 100%;
+  left: 30px;
+  top: 252px;
+  padding-right: 0px;
+}
+.link {
+  position: absolute;
+  left: 269px;
+  top: 124px;
+}

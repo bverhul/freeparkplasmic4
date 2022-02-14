@@ -1,0 +1,111 @@
+.root {
+  display: flex;
+  flex-direction: column;
+  position: relative;
+  width: 100%;
+  height: 100%;
+  overflow-x: hidden;
+  justify-content: center;
+  align-items: center;
+  min-width: 0;
+  min-height: 0;
+}
+.link__z0Yb {
+  display: flex;
+}
+.login {
+  background: rgba(255, 255, 255, 1);
+  width: 375px;
+  height: 649px;
+  display: block;
+  overflow: hidden;
+  flex-shrink: 0;
+  border-radius: 5px;
+}
+.frame1 {
+  background: rgba(57, 183, 184, 1);
+  width: 198px;
+  height: 53px;
+  display: block;
+  position: absolute;
+  top: 353px;
+  left: 89px;
+  overflow: hidden;
+  border-radius: 5px;
+}
+.seConnecter {
+  position: absolute;
+  top: 6px;
+  left: 0px;
+  width: 195px;
+  height: 41px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.text__t4GtN {
+  display: block;
+  font-size: 18px;
+  text-align: center;
+  font-family: Comfortaa;
+  font-weight: 700;
+  letter-spacing: -0.015em;
+  line-height: 100%;
+  color: rgba(255, 255, 255, 1);
+}
+.frame2 {
+  background: #008b92;
+  width: 375px;
+  height: 104px;
+  display: block;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  overflow: hidden;
+}
+.freePark {
+  position: absolute;
+  top: 25px;
+  left: 100px;
+  width: 176px;
+  height: 54px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.text__sNn6L {
+  display: block;
+  font-size: 25px;
+  text-align: center;
+  font-family: Comfortaa;
+  font-weight: 700;
+  letter-spacing: -0.334px;
+  line-height: 100%;
+  color: rgba(255, 255, 255, 1);
+}
+.passwordInput {
+  position: absolute;
+  width: 318px;
+  height: auto;
+  max-width: 100%;
+  left: 24px;
+  top: 237px;
+  padding-right: 0px;
+  color: #535353;
+}
+.textInput {
+  position: absolute;
+  width: 318px;
+  height: auto;
+  max-width: 100%;
+  left: 22px;
+  top: 180px;
+  padding-right: 0px;
+  margin-right: 51px;
+  color: #535353;
+}
+.link___4ZzHa {
+  position: absolute;
+  left: 299px;
+  top: 122px;
+}
